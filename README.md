@@ -8,14 +8,15 @@
 
 ## how to run the code:
 
-'''bash
+
+```bash
  conda create -n telebot python=3.8 -y
- '''
+ ```
 
-'''bash
+```bash
  conda activate telebot
- '''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
