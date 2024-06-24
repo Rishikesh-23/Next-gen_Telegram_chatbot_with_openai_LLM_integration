@@ -9,7 +9,7 @@
 ## how to run the code:
 
 '''bash
- conda create -n telebot python=3.7 -y
+ conda create -n telebot python=3.8 -y
  '''
 
 '''bash
