@@ -23,7 +23,7 @@ async def command_start_handler(message: types.Message) :
     This handler receives messages with `/start` command
     """
    
-    await message.reply("Hi\n I am echo Bot!\n Powered by aiogram.\n sir this project is totaly developed by me ,Rishikesh (id-23AG61r02, iitkgp)")
+    await message.reply("Hi\n I am echo Bot!\n Powered by aiogram.\n \n Sir, this project is totally developed by me ,Rishikesh (id-23AG61R02, iitkgp)")
 
 
 if __name__ =="__main__": 
