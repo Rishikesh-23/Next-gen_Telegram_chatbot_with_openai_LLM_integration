@@ -19,7 +19,7 @@ reference = Reference()
 TOKEN = os.getenv("TOKEN")
 
 #MODEL NAME
-MODEL_NAME = "gpt-3.5-turbo"
+MODEL_NAME = "gpt-3.5-turbo-0125"
 
 #initialise bot and dispatcher
 bot = Bot(token=TOKEN)
